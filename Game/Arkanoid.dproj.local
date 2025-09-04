@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/29 16:59:08.000.506,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2023/07/09 13:55:13.000.742,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2023/08/17 14:27:35.000.013,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2023/08/17 17:33:00.000.384,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2023/08/23 21:56:49.000.027,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2023/08/24 19:22:02.000.619,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2023/11/06 10:00:39.000.881,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2023/11/27 15:37:05.000.031,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2023/12/14 16:48:52.000.025,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\WebModuleUnit2.pas</Transaction>
+    <Transaction>2024/02/27 14:48:48.000.938,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2024/06/11 16:43:17.000.373,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2024/06/17 21:22:42.000.955,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2024/08/12 09:09:58.000.344,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2024/10/18 15:24:54.000.011,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2024/11/28 07:41:17.000.791,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2025/03/11 22:42:40.000.352,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2025/03/11 22:43:05.000.081,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2025/04/28 21:40:01.000.975,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2025/04/28 21:40:30.000.590,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\uLayouts.pas</Transaction>
+    <Transaction>2025/04/28 21:40:30.000.999,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\uVaus.pas</Transaction>
+    <Transaction>2025/04/28 21:40:30.000.688,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\uPlacar.pas</Transaction>
+    <Transaction>2025/04/28 21:40:30.000.083,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\uArkanoid.pas</Transaction>
+    <Transaction>2025/04/28 21:40:30.000.382,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\uFases.pas</Transaction>
+    <Transaction>2025/04/28 21:40:30.000.747,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\uResource.pas</Transaction>
+    <Transaction>2025/04/28 21:40:30.000.940,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\uTestes.pas</Transaction>
+    <Transaction>2025/04/28 21:40:30.000.268,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\uBlocos.pas</Transaction>
+    <Transaction>2025/04/28 21:40:30.000.634,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\uMeteoro.pas</Transaction>
+    <Transaction>2025/04/28 21:40:30.000.319,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\uBola.pas</Transaction>
+    <Transaction>2025/04/28 21:40:30.000.424,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\uItens.pas</Transaction>
+    <Transaction>2025/04/28 21:40:30.000.227,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\uAudio.pas</Transaction>
+    <Transaction>2025/04/28 21:40:56.000.068,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\ImagensEAudios.rc</Transaction>
+    <Transaction>2025/04/28 21:41:22.000.557,C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Project4.dproj=C:\Delphi\Arkanoid\Video08_AberturaEInicio\Arkanoid.dproj</Transaction>
+    <Transaction>2025/04/28 21:42:15.000.784,C:\Delphi\Arkanoid\Video08_AberturaEInicio\uTestes.pas=</Transaction>
+    <Transaction>2025/04/28 21:50:30.000.659,C:\Delphi\Arkanoid\Video08_AberturaEInicio\uAudio.pas=</Transaction>
+    <Transaction>2025/04/28 21:50:47.000.709,=C:\Delphi\Arkanoid\Video08_AberturaEInicio\uAudio.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="ad820c61" Android=""/>
+	</ActiveMobileDevice>  <BT_BuildType>AppStore</BT_BuildType>
+</BorlandProject>

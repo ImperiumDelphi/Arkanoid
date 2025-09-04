@@ -1,0 +1,121 @@
+object Arkanoid_Main: TArkanoid_Main
+  Left = 0
+  Top = 0
+  Caption = 'Arkanoid'
+  ClientHeight = 700
+  ClientWidth = 400
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnMouseMove = FormMouseMove
+  OnMouseUp = FormMouseUp
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object Fundo: TImageViewer
+    Align = Contents
+    EnableDragHighlight = False
+    HitTest = False
+    Size.Width = 400.000000000000000000
+    Size.Height = 700.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    AutoHide = False
+    BackgroundFill.Kind = None
+    DisableMouseWheel = True
+    MouseScaling = False
+    ShowScrollBars = False
+    Viewport.Width = 396.000000000000000000
+    Viewport.Height = 696.000000000000000000
+  end
+  object Dedo: TImage
+    MultiResBitmap.Height = 96
+    MultiResBitmap.Width = 96
+    MultiResBitmap = <
+      item
+      end>
+    Anchors = []
+    Position.X = 160.000000000000000000
+    Position.Y = 637.000000000000000000
+    Size.Width = 90.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    OnMouseDown = DedoMouseDown
+  end
+  object PainelJogo: TLayout
+    Align = Top
+    Size.Width = 400.000000000000000000
+    Size.Height = 30.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 4
+    object FundoPainel: TRectangle
+      Align = Contents
+      Fill.Bitmap.Bitmap.PNG = {
+        89504E470D0A1A0A0000000D4948445200000008000000080806000000C40FBE
+        8B0000000473424954080808087C086488000000544944415418957D8FC10DC0
+        200C038FAA1B7882ECC0FE13B04326C80A695F1410A2FEDED94A4A663EFCE406
+        68AD6DA0D63A040033FBA0BB131148E29A5B9290B42C2DC2F1863EEBEE9B50FA
+        1711B141494338E505ED461DAB23AC7DBB0000000049454E44AE426082}
+      Fill.Bitmap.WrapMode = Tile
+      Fill.Kind = Bitmap
+      Opacity = 0.200000002980232200
+      Size.Width = 400.000000000000000000
+      Size.Height = 30.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+    end
+    object BolaVidas: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Align = Left
+      Margins.Left = 16.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Position.X = 16.000000000000000000
+      Position.Y = 5.000000000000000000
+      Size.Width = 22.000000000000000000
+      Size.Height = 20.000000000000000000
+      Size.PlatformDefault = False
+      object GlowEffect2: TGlowEffect
+        Softness = 0.400000005960464500
+        GlowColor = claWhite
+        Opacity = 0.899999976158142100
+      end
+    end
+    object QtdBolas: TLabel
+      Align = Left
+      StyledSettings = [Family]
+      Margins.Left = 8.000000000000000000
+      Position.X = 46.000000000000000000
+      Size.Width = 83.000000000000000000
+      Size.Height = 30.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 20.000000000000000000
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+      Text = 'X 99'
+      TabOrder = 2
+    end
+  end
+  object PausePlay: TImage
+    MultiResBitmap.Height = 128
+    MultiResBitmap.Width = 128
+    MultiResBitmap = <
+      item
+      end>
+    Opacity = 0.500000000000000000
+    Position.X = 6.000000000000000000
+    Position.Y = 36.000000000000000000
+    OnClick = PausePlayClick
+  end
+  object CampoDeForca: TRectangle
+    Fill.Bitmap.WrapMode = Tile
+    Fill.Kind = Bitmap
+    Position.X = 16.000000000000000000
+    Position.Y = 416.000000000000000000
+    Size.Width = 97.000000000000000000
+    Size.Height = 17.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+  end
+end
